@@ -37,7 +37,7 @@ class ContractEmployee(Employee):
         return self._contract_amount
 
 
-# Example usage
+# Example 
 employees = [
     FullTimeEmployee("Ali", 5000),
     PartTimeEmployee("Sara", 80, 20),

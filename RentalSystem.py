@@ -28,7 +28,7 @@ class Truck(Vehicle):
         return (self._price_per_day + extra_charge) * days
 
 
-# Example usage
+# Example 
 car = Car(100)
 bike = Bike(40)
 truck = Truck(150)

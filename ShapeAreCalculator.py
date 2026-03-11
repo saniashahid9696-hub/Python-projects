@@ -38,7 +38,7 @@ class Triangle(Shape):
         return 0.5 * self.base * self.height
 
 
-# Example usage
+# Example 
 shapes = [
     Circle(5),
     Rectangle(4, 6),
