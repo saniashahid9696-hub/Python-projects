@@ -44,3 +44,4 @@ appointment1.book_appointment()
 
 # View patient details
 patient1.view_details()
+doctor1 = Doctor("Dr. Sara", 101, "General Physician")
